@@ -26,7 +26,7 @@ This project uses the following technologies:
 ## Contact
 If you have any questions or would like to contribute to this project, feel free to reach out!
 
-GitHub: (https://github.com/akashmailar)
+GitHub: https://github.com/akashmailar
 
 Email: akashmailar16@gmail.com
 
